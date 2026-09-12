@@ -1,0 +1,14 @@
+#compiledPrograms
+
+*.exe
+*.out
+
+#objectFiles
+*.o
+
+#visualStudioCode
+
+.vscode/
+
+#tempFiles
+*.tmp
