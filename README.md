@@ -4,7 +4,7 @@
 
 ## What is this?
 
-**hudaiAjaira** is a completely unnecessary website/project made just because it can be made.
+**hudaiAjaira** is a completely unnecessary project made just because it can be made.
 
 There is no deep purpose, grand vision, productivity goal, or secret meaning behind it.
 
@@ -16,7 +16,7 @@ Why not?
 
 ## License
 
-This project is licensed under the **HUDaiAjaira License**. See [LICENSE](LICENSE) for the full terms.
+This project is licensed under the **Apache 2.0**. See [LICENSE](LICENSE) for the full terms.
 
 ---
 
